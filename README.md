@@ -27,7 +27,7 @@ Supported by **iTerm2 (3.6.6+)**, Windows Terminal, Ghostty, and WezTerm. On uns
 ### Quick install (recommended)
 
 ```bash
-curl -fsSL https://github.com/jk779/zsh-cpmv-progress/raw/branch/main/setup.sh | bash
+curl -fsSL https://raw.githubusercontent.com/jk779/zsh-cpmv-progress/main/setup.sh | bash
 ```
 
 This clones the repo to `~/.zsh/plugins/zsh-cpmv-progress` and adds a `source` line to your `.zshrc`. Safe to re-run anytime — it'll just `git pull` and won't duplicate the source line.
